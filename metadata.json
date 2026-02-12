@@ -1,0 +1,8 @@
+{
+  "name": "CENTURY MUSIC EMPIRE",
+  "description": "The global hub for sonic excellence. Featuring KIM CUG and our visionary founders.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
